@@ -24,6 +24,8 @@ namespace ConsoleApp1
 
                 var totalArea = totalLengthinFeet * totalwidthinFeet;
 
+                //oh this is HashCode that doesnt work
+
                 Console.WriteLine(totalArea);
                 
 
