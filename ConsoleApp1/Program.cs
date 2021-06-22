@@ -22,6 +22,7 @@ namespace ConsoleApp1
                 decimal totalwidthinFeet = (InchWidth / 12);
                 decimal totalLengthinFeet = (InchLength / 12);
 
+                var totalArea = totalLengthinFeet * totalwidthinFeet;
                 
 
                 Console.ReadLine();
