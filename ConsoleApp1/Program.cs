@@ -22,12 +22,7 @@ namespace ConsoleApp1
                 decimal totalwidthinFeet = (InchWidth / 12);
                 decimal totalLengthinFeet = (InchLength / 12);
 
-                var totalArea = totalLengthinFeet * totalwidthinFeet;
-
-                //oh this is HashCode that doesnt work
-
-                Console.WriteLine(totalArea);
-                
+       
 
                 Console.ReadLine();
 
